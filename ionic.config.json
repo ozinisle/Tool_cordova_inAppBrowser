@@ -1,0 +1,7 @@
+{
+  "name": "call recorder",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
